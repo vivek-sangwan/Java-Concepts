@@ -1,4 +1,4 @@
-package org.viveksangwan.multithreading;
+package org.viveksangwan.multithreading.printevenodd;
 
 public class ExercisePrintEvenOddWithDifferentThreads {
     private static volatile int number = 0;
